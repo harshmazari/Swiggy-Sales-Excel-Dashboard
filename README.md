@@ -15,4 +15,8 @@ An interactive Power BI dashboard designed to analyze and uncover actionable ins
 # Swiggy-Sales-Excel-Dashboard
 "An interactive Excel dashboard analyzing ₹53M+ in Swiggy sales data. Features dynamic slicers, pivot charts, and regional mapping to track monthly trends, customer ratings, and top-performing restaurant chains."
 ## 📊 Dashboard Preview
-![Dashboard Preview](Screenshots/dashboard_preview.png)
+<br>
+
+<img src=https://github.com/harshmazari/Hospital-Emergency-Room-Excel-Dashboard/blob/main/Final%20Dashboard%20of%20Hospital%20Emergency%20Room%20.png  alt="Image Description" width="600">
+
+<br><br>
