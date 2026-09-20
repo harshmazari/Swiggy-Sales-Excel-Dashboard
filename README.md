@@ -17,6 +17,6 @@ An interactive Power BI dashboard designed to analyze and uncover actionable ins
 ## 📊 Dashboard Preview
 <br>
 
-<img src=https://github.com/harshmazari/Hospital-Emergency-Room-Excel-Dashboard/blob/main/Final%20Dashboard%20of%20Hospital%20Emergency%20Room%20.png  alt="Image Description" width="600">
+<img src=https://github.com/harshmazari/Swiggy-Sales-Excel-Dashboard/blob/main/Swiggy%20Sales%20Dashboard.png  alt="Image Description" width="600">
 
 <br><br>
