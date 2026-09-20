@@ -1,10 +1,6 @@
 # Swiggy Sales & Performance Analysis Dashboard
 
 An interactive Power BI dashboard designed to analyze and uncover actionable insights from historical Swiggy food delivery metrics, processing over **197K orders** and **₹53M+** in revenue.
-
-## 📊 Dashboard Preview
-![Dashboard Preview](Screenshots/dashboard_preview.png)
-
 ## 🔑 Key KPIs & Insights Tracked
 * **Financial Performance:** Analyzed ₹53,012,506 in total sales with an Average Order Value (AOV) of ₹268.51.
 * **Order Volumes:** Monitored 197,430 total orders against a vast customer response footprint (5.5M+ rating counts).
@@ -18,3 +14,5 @@ An interactive Power BI dashboard designed to analyze and uncover actionable ins
 * **Advanced Visuals:** Integrated Treemaps for brand positioning, Donut charts for demographic splits, and filled regional shape maps.
 # Swiggy-Sales-Excel-Dashboard
 "An interactive Excel dashboard analyzing ₹53M+ in Swiggy sales data. Features dynamic slicers, pivot charts, and regional mapping to track monthly trends, customer ratings, and top-performing restaurant chains."
+## 📊 Dashboard Preview
+![Dashboard Preview](Screenshots/dashboard_preview.png)
